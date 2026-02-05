@@ -17,11 +17,11 @@ int main(){
 
 // para usar um laço booleano inves de fazer 
 // 
-// bool x = true;
+// bool x = true;       XX
 // 
-// while(x == true)
+// while(x == true)     XX
 // 
-// é melhor
+// é melhor             
 // 
-// bool x = true;
+// bool x = true;      <-- melhor!!!
 // while(x)            <-- melhor!!!
